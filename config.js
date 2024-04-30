@@ -11,7 +11,7 @@
 ║                                                                        ║
 ║  ## Created by krizmYT!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
+║  ## DISCORD :  https://discord.gg/tNmzGcXRpE                           ║
 ║  ## YouTube : https://www.youtube.com/@krizmYT                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
