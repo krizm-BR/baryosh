@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by krizmYT!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@krizmYT                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -129,7 +129,7 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to GlaceYT: http://localhost:${port}`);
+  console.log(`🔗 Listening to krizmYT: http://localhost:${port}`);
 });
 printWatermark();
 
@@ -144,10 +144,10 @@ printWatermark();
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by krizmYT!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## YouTube : https://www.youtube.com/@krizmYT                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
